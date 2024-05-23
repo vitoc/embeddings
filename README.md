@@ -16,7 +16,9 @@ This repository contains the code demo-ed in the session
 * Python 3.11
 
 ```
-pip install ollama chromadb
+$ pip install ollama chromadb
+$ ollama pull all-minilm 
+$ ollama pull phi3
 ```
 
 # Run
